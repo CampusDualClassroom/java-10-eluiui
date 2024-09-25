@@ -10,6 +10,7 @@ public class Exercise10 {
     // COLOR_BOLA puede ser → rojo, azul, verde
     public static void main(String[] args) {
         auxiliar();
+        
     }
     public static void auxiliar(){
         for (int blueBallCount = 0; blueBallCount < 2; ) {
