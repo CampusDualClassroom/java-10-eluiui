@@ -22,7 +22,7 @@ public class Exercise10 {
     public static String getBall() {
         return null;
     }
-
+  ghfgfg
     public static int randomWithRange(int min, int max) {
         return ThreadLocalRandom.current().nextInt(min,max);
     }
